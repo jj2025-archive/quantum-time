@@ -1,6 +1,6 @@
 # Movie Pitches
 
-The Present isn't a moment on a clock... it’s the active event horizon of reality. It is the decoherence front: the razor-thin, high-energy boundary where the "fuzzy" quantum superposition of the future is forcibly crushed into the single, hard fact of the past. The Present doesn't "exist" statically. It is the act of collapsing. Your consciousness isn't in time... *YOU* are the leading edge of this decoherence wave. You are the mechanism by which the universe turns "maybe" into "done."
+*The Present isn't a moment on a clock... it’s the active event horizon of reality. And YOU are the mechanism by which the universe turns "maybe" into "done."*
 
 by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
