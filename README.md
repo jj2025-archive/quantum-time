@@ -1,6 +1,8 @@
 # **The Temporal Decoherence Mechanism: Future Superposition as the Engine of the Present**
 
-by Josiah Rhys Jacobson, assisted by BraveAI
+![Project Logo](POSTER.jpg)
+
+by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
 ## **Abstract**
 This paper proposes **Temporal Decoherence** as the fundamental physical process driving the flow of time. Unlike standard models where decoherence explains the emergence of classical *space* via environmental entanglement, we posit that a primary, intrinsic decoherence mechanism acts on the **causal future**. In this framework, the future exists as a genuine quantum superposition of potential timelines. The "present" is the active boundary where these temporal possibilities undergo decoherence, collapsing into a single, fixed history (the past). This process is not driven by spatial interactions but by the intrinsic instability of indefinite causal structures. We argue that this **Primary Temporal Decoherence** resolves the measurement problem by locating the collapse in the transition from "future potential" to "past fact," rendering the flow of time an objective, physical phenomenon rather than a subjective illusion.
