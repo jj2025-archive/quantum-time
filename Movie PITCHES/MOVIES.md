@@ -1,6 +1,6 @@
 # Movie Pitches
 
-The Present isn't a moment on a clock... it’s the active event horizon of reality. It is the decoherence front: the razor-thin, high-energy boundary where the "fuzzy" quantum superposition of the future is forcibly crushed into the single, hard fact of the past. The Present doesn't "exist" statically. It is the act of collapsing. Your consciousness isn't in time; you are the leading edge of this decoherence wave. You are the mechanism by which the universe turns "maybe" into "done."
+The Present isn't a moment on a clock... it’s the active event horizon of reality. It is the decoherence front: the razor-thin, high-energy boundary where the "fuzzy" quantum superposition of the future is forcibly crushed into the single, hard fact of the past. The Present doesn't "exist" statically. It is the act of collapsing. Your consciousness isn't in time... *YOU* are the leading edge of this decoherence wave. You are the mechanism by which the universe turns "maybe" into "done."
 
 by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
@@ -14,23 +14,43 @@ by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
 **Climax:** A battle atop the decoherence front itself, where the villain tries to amplify the collapse rate to solidify his chosen future, while the hero must introduce "temporal noise" to keep the future open and uncertain.
 
-### 2. **CAUSAL ECHO**
+## 2. **CAUSAL ECHO**
+
+<img src="https://github.com/jj2025-archive/quantum-time/blob/main/Movie%20PITCHES/2._CAUSAL_ECHO.jpg?raw=true" width="150">
+
 **Logline:** A detective investigating a murder realizes the victim hasn't died yet—their death is just one of many superposed futures that hasn't decohered. To solve the crime, he must navigate the "probability fog" of the victim's remaining 24 hours to find which causal chain leads to the murder, before the universe randomly collapses into the wrong timeline.
-<br>**The Hook:** The film uses a unique visual language: the "Past" is in crisp 4K; the "Future" is a layered, translucent montage of all possible outcomes occurring simultaneously. The detective uses a "Causal Anchor" to temporarily stabilize specific future branches, walking through them like holographic crime scenes. But every time he observes a possibility, he accelerates its decoherence, potentially causing the very death he’s trying to prevent.
-<br>**Twist:** The detective discovers *he* is the variable causing the decoherence; his observation is the weapon. The killer is someone trying to force a specific timeline by manipulating his attention.
 
-### 3. **THE UNWRITTEN HOUR**
+**The Hook:** The film uses a unique visual language: the "Past" is in crisp 4K; the "Future" is a layered, translucent montage of all possible outcomes occurring simultaneously. The detective uses a "Causal Anchor" to temporarily stabilize specific future branches, walking through them like holographic crime scenes. But every time he observes a possibility, he accelerates its decoherence, potentially causing the very death he’s trying to prevent.
+
+**Twist:** The detective discovers *he* is the variable causing the decoherence; his observation is the weapon. The killer is someone trying to force a specific timeline by manipulating his attention.
+
+## 3. **THE UNWRITTEN HOUR**
+
+<img src="https://github.com/jj2025-archive/quantum-time/blob/main/Movie%20PITCHES/3._THE_UNWRITTEN_HOUR.jpg?raw=true" width="150">
+
 **Logline:** In a world where "Temporal Decoherence" has stalled, the future has stopped collapsing into the past. Time has frozen: no new events can become "real," and humanity is trapped in an eternal, looping "Now" of infinite potential but zero actuality. A young engineer must restart the universe's collapse mechanism before existence dissolves into pure noise.
-<br>**The Hook:** Imagine a city where every possible action is happening at once: cars are both crashing and driving safely, people are speaking and silent simultaneously. It’s a chaotic, beautiful, terrifying superposition. The protagonist is one of the few "Coherent Beings" who can still perceive a single thread of reality. She discovers the "Decoherence Engine" (a natural cosmic process) has been blocked by an alien artifact or human experiment.
-<br>**Visuals:** The "stalled time" looks like a glitching video game rendering all assets at once. As she fixes the engine, we see the world "snap" into focus, one event at a time, creating the satisfying sensation of reality finally "happening."
 
-### 4. **FUTURE SHOCKWAVE**
+**The Hook:** Imagine a city where every possible action is happening at once: cars are both crashing and driving safely, people are speaking and silent simultaneously. It’s a chaotic, beautiful, terrifying superposition. The protagonist is one of the few "Coherent Beings" who can still perceive a single thread of reality. She discovers the "Decoherence Engine" (a natural cosmic process) has been blocked by an alien artifact or human experiment.
+
+**Visuals:** The "stalled time" looks like a glitching video game rendering all assets at once. As she fixes the engine, we see the world "snap" into focus, one event at a time, creating the satisfying sensation of reality finally "happening."
+
+## 4. **FUTURE SHOCKWAVE**
+
+<img src="https://github.com/jj2025-archive/quantum-time/blob/main/Movie%20PITCHES/4._FUTURE_SHOCKWAVE.jpg?raw=true" width="150">
+
 **Logline:** A military unit deploys "Temporal Warheads" that don't explode in space, but in *time*. These weapons force a localized region of the future to decohere instantly, collapsing all enemy possibilities into a single, catastrophic history (e.g., "the building was always destroyed"). But when a warhead misfires, it creates a "Superposition Zone" where enemy soldiers exist in all possible states of attack simultaneously.
-<br>**The Hook:** Combat within a Superposition Zone is a nightmare. Enemies phase in and out of existence, attacking from every possible angle at once. The protagonist must use a "Decoherence Rifle" to shoot *probabilities*, not people—collapsing the enemy's future options until they are forced into a single, vulnerable state.
-<br>**Theme:** The moral weight of "collapsing" a human being’s future into a single, often deadly, outcome. The war is fought over who gets to define reality.
 
-### 5. **THE LAST OBSERVER**
+**The Hook:** Combat within a Superposition Zone is a nightmare. Enemies phase in and out of existence, attacking from every possible angle at once. The protagonist must use a "Decoherence Rifle" to shoot *probabilities*, not people—collapsing the enemy's future options until they are forced into a single, vulnerable state.
+
+**Theme:** The moral weight of "collapsing" a human being’s future into a single, often deadly, outcome. The war is fought over who gets to define reality.
+
+## 5. **THE LAST OBSERVER**
+
+<img src="https://github.com/jj2025-archive/quantum-time/blob/main/Movie%20PITCHES/5._THE_LAST_OBSERVER.jpg?raw=true" width="150">
+
 **Logline:** As the universe ages, the natural rate of Temporal Decoherence slows. The "Present" becomes thinner, and the "Uncollapsed Future" begins to bleed into the past. An aging astronaut is the last person capable of generating enough "conscious observation" to force the future to collapse, effectively holding reality together by sheer will.
-<br>**The Hook:** A psychological thriller where the protagonist’s mental state directly dictates the stability of the world. When she is focused, reality is solid. When she doubts or sleeps, the future superposition leaks in: ghosts of tomorrow walk today, and objects flicker between states. She is hunted by a cult that believes the "Uncollapsed Future" is a higher state of existence and wants to stop her from "collapsing" it.
-<br>**Ending:** She realizes she cannot hold on forever. The final act is her choosing *which* future to collapse into, knowing that her choice will define the next billion years of history. A literal "act of creation."
+
+**The Hook:** A psychological thriller where the protagonist’s mental state directly dictates the stability of the world. When she is focused, reality is solid. When she doubts or sleeps, the future superposition leaks in: ghosts of tomorrow walk today, and objects flicker between states. She is hunted by a cult that believes the "Uncollapsed Future" is a higher state of existence and wants to stop her from "collapsing" it.
+
+**Ending:** She realizes she cannot hold on forever. The final act is her choosing *which* future to collapse into, knowing that her choice will define the next billion years of history. A literal "act of creation."
 
