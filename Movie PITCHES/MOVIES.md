@@ -1,13 +1,18 @@
-## Movie Pitches
+# Movie Pitches
 
-Here are 5 blockbuster movie pitches based on the **Primary Temporal Decoherence Model**, where the future is a quantum superposition and the present is the active collapse into reality:
+The Present isn't a moment on a clock... it’s the active event horizon of reality. It is the decoherence front: the razor-thin, high-energy boundary where the "fuzzy" quantum superposition of the future is forcibly crushed into the single, hard fact of the past. The Present doesn't "exist" statically. It is the act of collapsing. Your consciousness isn't in time; you are the leading edge of this decoherence wave. You are the mechanism by which the universe turns "maybe" into "done."
 
 by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
-### 1. **THE DECOHERENCE FRONT**
+## 1. **THE DECOHERENCE FRONT**
+
+<img src="https://github.com/jj2025-archive/quantum-time/blob/main/Movie%20PITCHES/1._THE_DECOHERENCE_FRONT.jpg?raw=true" width="150">
+
 **Logline:** When a rogue quantum physicist discovers that the "future" is a literal superposition of infinite timelines actively collapsing into the past every nanosecond, she must race against a shadowy cabal trying to "freeze" the decoherence front to lock in a utopian timeline—erasing all other possibilities forever.
-<br>**The Hook:** Visualize the "Present" as a glowing, moving wall of light sweeping across the universe. Behind it, reality is sharp, fixed, and classical (the Past). Ahead of it, the world is a chaotic, shimmering fog of overlapping probabilities where buildings exist in multiple locations and people are ghosts of their potential selves. The protagonist possesses a device that lets her step *ahead* of the front into the "Uncollapsed Zone," where she can navigate the superposition, but risks "decohering" herself (ceasing to exist as a single entity) if she stays too long.
-<br>**Climax:** A battle atop the decoherence front itself, where the villain tries to amplify the collapse rate to solidify his chosen future, while the hero must introduce "temporal noise" to keep the future open and uncertain.
+
+**The Hook:** Visualize the "Present" as a glowing, moving wall of light sweeping across the universe. Behind it, reality is sharp, fixed, and classical (the Past). Ahead of it, the world is a chaotic, shimmering fog of overlapping probabilities where buildings exist in multiple locations and people are ghosts of their potential selves. The protagonist possesses a device that lets her step *ahead* of the front into the "Uncollapsed Zone," where she can navigate the superposition, but risks "decohering" herself (ceasing to exist as a single entity) if she stays too long.
+
+**Climax:** A battle atop the decoherence front itself, where the villain tries to amplify the collapse rate to solidify his chosen future, while the hero must introduce "temporal noise" to keep the future open and uncertain.
 
 ### 2. **CAUSAL ECHO**
 **Logline:** A detective investigating a murder realizes the victim hasn't died yet—their death is just one of many superposed futures that hasn't decohered. To solve the crime, he must navigate the "probability fog" of the victim's remaining 24 hours to find which causal chain leads to the murder, before the universe randomly collapses into the wrong timeline.
