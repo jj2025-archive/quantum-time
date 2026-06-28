@@ -1,6 +1,6 @@
 # **The Temporal Decoherence Mechanism: Future Superposition as the Engine of the Present**
 
-![Project Logo](POSTER.jpg)
+![Project Logo](COVER.jpg)
 
 by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
