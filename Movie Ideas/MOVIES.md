@@ -1,6 +1,6 @@
 # Movie Pitches
 
-*The Present isn't a moment on a clock... it’s the active event horizon of reality. And YOU are the mechanism by which the universe turns "maybe" into "done."*
+*The Present isn't a moment on a clock... it’s the active event horizon of reality. And YOU are the mechanism by which the universe turns "maybe" into "finished."*
 
 by Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images)
 
